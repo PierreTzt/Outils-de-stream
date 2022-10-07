@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;900&display=swap');
 
 
-div#timer_m {
+div#div_horloge {
   font-size: 6rem;
   color: rgb(255, 255, 255);
   text-shadow: 0.1em 0.1em 0.2em black;
@@ -11,7 +11,7 @@ div#timer_m {
   text-align: left;
 }
 
-div#timer_s {
+div#div_date {
   font-size: 4rem;
   color: rgb(255, 255, 255);
   text-shadow: 0.1em 0.1em 0.2em black;
