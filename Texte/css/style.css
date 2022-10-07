@@ -1,0 +1,27 @@
+/* Import de la font Google Lato */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;900&display=swap');
+
+h1 {
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+  font-size: 75pt;
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+p {
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+  font-size: 20pt;
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+#table {
+  margin-top: 15%;
+  width: 100%;
+}

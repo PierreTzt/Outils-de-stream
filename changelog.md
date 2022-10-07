@@ -6,6 +6,12 @@ et ce projet respecte [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
 ## [Unreleased]
 
+## [4.0.0] - 2022-10-07
+### Changed
+- Changement de l'arborescence pour le countdown
+- Changement de l'arborescence pour le texte
+- Modification complète de la page des textes.
+
 ## [3.1.0] - 2022-10-07
 ### Added
 - Ajout de la météo sur la page
