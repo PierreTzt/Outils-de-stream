@@ -6,6 +6,15 @@ et ce projet respecte [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
 ## [Unreleased]
 
+## [3.0.0] - 2022-10-07
+### Added
+- Mise en place d'une arborescence pour les infos
+- Mise en place de fichiers javascript pour la date et l'heure
+
+### Changed
+- Ajout d'un commentaire dans le style.css de Countdown
+- Version plus propre de infos.html
+
 ## [2.0.0] - 2022-10-07
 ### Added
 - Mise en place d'une arborescence pour le countdown
