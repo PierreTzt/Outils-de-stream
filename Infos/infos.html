@@ -2,15 +2,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    
+    <link rel="stylesheet" type="text/css" href="./css/style.css">
 </head>
 
-<body>
-<div id="div_horloge"></div>
-<div id="div_date"></div>
-<script src="heure.js"></script>
-<script src="date.js"></script>
-
+<body><div id="meteo">
+    <iframe class="border" id="preview-iframe" src="weather.html?api_key=c21a75b667d6f7abb81f118dcf8d4611&city=Anzin&country=fr&lang=&units=metric&lat=&lon=" width="100%" height="100%" frameborder="0"></iframe>
+</div>
+        <div id="div_date"></div>
+        <div id="div_horloge"></div>
+    </div>
+<script src="./js/date.js"></script>
+<script src="./js/heure.js"></script>
+<script src="./js/OpenWeather.js"> </script>
 </body>
 </html>

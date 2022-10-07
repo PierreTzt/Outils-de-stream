@@ -6,6 +6,13 @@ et ce projet respecte [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
 ## [Unreleased]
 
+## [3.1.0] - 2022-10-07
+### Added
+- Ajout de la météo sur la page
+
+### Changed
+- Changement de l'arborescence pour les infos
+
 ## [3.0.0] - 2022-10-07
 ### Added
 - Mise en place d'une arborescence pour les infos
