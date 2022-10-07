@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato');
 
 
-  div#timer {
+  div#timer_m {
 
     font-size: 6rem;
     color: rgb(255, 255, 255);
@@ -10,7 +10,7 @@
     font-weight: 900;
     text-align: left;
   }
-  div#timer_ms {
+  div#timer_s {
     font-size: 4rem;
     color: rgb(255, 255, 255);
     text-shadow: 0.1em 0.1em 0.2em black;
