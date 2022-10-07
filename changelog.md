@@ -6,8 +6,17 @@ et ce projet respecte [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
 ## [Unreleased]
 
-## [1.0.0] - 2022-10-07
+## [2.0.0] - 2022-10-07
 ### Added
+- Mise en place d'une arborescence pour le countdown
+
+### Changed
+- Changement des plusieurs constantes dans timer.js pour plus de clarté
+- Commentaire du code de timer.js pour le changement de la valeur du temps
+- Version plus propre de countdown.html
+
+## [1.0.0] - 2022-10-07
+
 - Date-Heure.html -> Affichage d'une date et heure au format D d m et h : m
 - Focus.html -> Changement de texte grace à un effet
 - index.html -> Countdown de 75 minutes
