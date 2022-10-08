@@ -15,8 +15,8 @@ Un timer, une horloge pour le moment. Le but étant de construire des overlays v
 Si vous souhaitez contribuer, lisez le fichier [CONTRIBUTING.md](CONTRIBUTING.md) pour savoir comment le faire.
 
 ## Versions
-**Dernière version stable :** 1.0
-**Dernière version :** 1.0
+**Dernière version stable :** 5.0.0
+**Dernière version :** 5.0.0
 Liste des versions : [Cliquer pour afficher](https://github.com/PierreTzt/Outils-de-stream/tags)
 
 ## Auteurs
