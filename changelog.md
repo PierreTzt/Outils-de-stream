@@ -14,6 +14,9 @@ et ce projet respecte [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 ### Changed
 - Changement de l'arborescence pour la scène AFK
 
+### Removed
+- Suppression de focus.html
+
 ## [4.1.0] - 2022-10-08
 ### Changed
 - Ajout de "Time to focus" sur les infos
