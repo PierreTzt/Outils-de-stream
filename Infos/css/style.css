@@ -1,5 +1,5 @@
 /* Import de la font Google Lato */
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;900&display=swap');
 
 
 div#div_horloge {
@@ -17,7 +17,17 @@ div#div_date {
   color: rgb(255, 255, 255);
   text-shadow: 0.1em 0.1em 0.2em black;
   font-family: 'Lato', sans-serif;
-  font-weight: 300;
+  font-weight: 400;
+  text-align: right;
+  margin-right: 3%;
+}
+
+div#texte {
+  font-size: 2rem;
+  color: rgb(255, 255, 255);
+  text-shadow: 0.1em 0.1em 0.2em black;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
   text-align: right;
   margin-right: 3%;
 }
@@ -36,3 +46,4 @@ div#div_date {
   text-align: right;
   margin-right: 3%;
 }
+

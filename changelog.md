@@ -6,11 +6,16 @@ et ce projet respecte [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
 ## [Unreleased]
 
+## [4.1.0] - 2022-10-07
+### Changed
+- Ajout de "Time to focus" sur les infos
+- Changement de la taille de font dans les "style.css"
+
 ## [4.0.0] - 2022-10-07
 ### Changed
 - Changement de l'arborescence pour le countdown
 - Changement de l'arborescence pour le texte
-- Modification complète de la page des textes.
+- Modification complète de la page des textes
 
 ## [3.1.0] - 2022-10-07
 ### Added
