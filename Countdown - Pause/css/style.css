@@ -1,0 +1,21 @@
+/* Import de la font Google Lato */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;900&display=swap');
+
+
+div#timer_m {
+  font-size: 6rem;
+  color: rgb(255, 255, 255);
+  text-shadow: 0.1em 0.1em 0.2em black;
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+  text-align: left;
+}
+
+div#timer_s {
+  font-size: 4rem;
+  color: rgb(255, 255, 255);
+  text-shadow: 0.1em 0.1em 0.2em black;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  text-align: left;
+}
